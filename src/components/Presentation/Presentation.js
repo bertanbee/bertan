@@ -139,7 +139,9 @@ function Presentation () {
         .welcomeTextHome {
             padding: 30px;
             
-            margin-left: -90%;
+        }
+        .welcomeBigBox {
+            width: 100%;
         }
     }
     `
@@ -220,7 +222,7 @@ function Presentation () {
                 </div>
                 <Division></Division>
                 
-                <div style={{ width: "30%", height: "500px", display: "flex", flexDirection: "column" }}>
+                <div style={{ alignItems: "center", width: "30%", height: "500px", display: "flex", flexDirection: "column" }}>
                     <TreeImage src={require("./tree.png")}></TreeImage>
                     <SelectionTextDiv style={{ marginTop: "-450px", textAlign: "center" }}>
                         <SelectionText1 style={{marginTop: "9px", cursor: "default"}}>BASTIDORES</SelectionText1>
