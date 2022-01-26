@@ -205,7 +205,7 @@ export default function InfoCardLeft (props) {
                 
                 <div className="moreinfo">
                     <Links>
-                    <a className="routeLink2" target="_blank" href={props.link1href}><button className="text">{props.link1}</button></a>
+                    <a className="routeLink2" target="_blank" rel="noreferrer" href={props.link1href}><button className="text">{props.link1}</button></a>
                     </Links>
                     
                 </div>
