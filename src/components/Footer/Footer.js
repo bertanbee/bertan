@@ -1,4 +1,4 @@
-import { FaGithub, FaInstagram, FaDiscord, FaReact, FaPython, FaJs, FaCss3Alt, FaUnity } from 'react-icons/fa';
+import { FaGithub, FaInstagram, FaDiscord, FaReact, FaPython, FaJs, FaCss3Alt, FaUnity, FaHome, FaPaperclip, FaUser, FaCamera } from 'react-icons/fa';
 import { SiCsharp,SiBlender } from 'react-icons/si'
 
 import { Link } from 'react-router-dom';
@@ -148,12 +148,13 @@ export default function Footer () {
         text-decoration: none;
         fontSize: 17px;
         transition: 0.2s;
+        
     }
     .NavigationLinks:hover {
         color: rgb(60,60,60);
         transition: 0.2s;
     }
-    width: 30%;
+    width: 36%;
     @media only screen and ( max-width: 700px)  {
         padding-right: 45px;
     } 
@@ -193,10 +194,10 @@ export default function Footer () {
         <FooterBox>
             <RightContentLinks>
                 <NavegationTitle>NAVEGAÇÃO</NavegationTitle>
-                <Link className="NavigationLinks"  to="/">Início</Link>
-                <Link className="NavigationLinks" to="/curriculo">Currículo</Link>
-                <Link className="NavigationLinks" to="/perfil">Perfil</Link>
-                <Link className="NavigationLinks" to="/bastidores">Bastidores</Link>
+                <Link className="NavigationLinks"  to="/"><FaHome style={{ marginBottom: "-2px" }}></FaHome> Início</Link>
+                <Link className="NavigationLinks" to="/curriculo"><FaPaperclip style={{ marginBottom: "-2px" }}></FaPaperclip> Currículo</Link>
+                <Link className="NavigationLinks" to="/perfil"><FaUser style={{ marginBottom: "-2px" }}></FaUser> Perfil</Link>
+                <Link className="NavigationLinks" to="/bastidores"><FaCamera style={{ marginBottom: "-2px" }}></FaCamera> Bastidores</Link>
             </RightContentLinks>
             <Division></Division>
             <LeftCard>
