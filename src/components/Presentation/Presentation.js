@@ -108,7 +108,7 @@ function Presentation () {
     .logoSVG {
         width: 260px;
         height: 260px;
-        margin-left: 18%;
+        
         opacity: 0.81;
         transition: 0.2s;
         align-self: center;
@@ -122,6 +122,14 @@ function Presentation () {
     }
     .welcomeTextHome {
         width: 100%;
+        text-align: center;
+    }
+    .welcomeBigBox {
+        width: 30%;
+        display: flex;
+        flex-direction: column;
+        margin-top: -45px;
+        align-items: center;
     }
     @media only screen and ( max-width: 900px)  {
         flex-direction: column;
@@ -130,8 +138,8 @@ function Presentation () {
         }
         .welcomeTextHome {
             padding: 30px;
-            align-self: right;
-            margin-left: -75%;
+            
+            margin-left: -90%;
         }
     }
     `
@@ -181,7 +189,7 @@ function Presentation () {
     const LogoWelcome = styled.p`
     font-weight: 900;
     font-size: 37px;
-    margin-left: 18%;
+    
     color: #fff;
     opacity: 0.81;
     transition: 0.2s;
@@ -198,7 +206,7 @@ function Presentation () {
         <PresentationBox>
             <PuzzlePresentation>
                 
-                <div style={{ width: "30%", display: "flex", flexDirection: "column", marginTop: "-45px" }}>
+                <div className="welcomeBigBox">
                     <div className="welcomeTextHome" style={{width: "100%"}}>
                         <LogoWelcome>SAUDAÇÕES!</LogoWelcome>
                         <LogoWelcome className="changedWelcomeStroke" style={{color: "transparent"}}>SAUDAÇÕES!</LogoWelcome>
