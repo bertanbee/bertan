@@ -145,7 +145,7 @@ export default function Seven () {
                         <FaWindows fill="rgb(240, 240, 240)" style={{padding: "6px"}}></FaWindows>
                         <FaApple fill="rgb(240, 240, 240)" style={{padding: "6px"}}></FaApple>
                         <FaLinux fill="rgb(240, 240, 240)" style={{padding: "6px"}}></FaLinux>
-                        <ToWebsiteAnchor target="_blank" rel="nonreferrer" href="https://7weekseven.vercel.app/"><ButtonToWebsite>EXPLORAR</ButtonToWebsite></ToWebsiteAnchor>
+                        <ToWebsiteAnchor target="_blank" rel="nonreferrer" href="https://7week.lucasbertan.com.br/"><ButtonToWebsite>EXPLORAR</ButtonToWebsite></ToWebsiteAnchor>
                     </div>
                 </PresentationWithComputerAndButtonDiv>
                 
