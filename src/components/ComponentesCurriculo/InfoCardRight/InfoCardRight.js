@@ -161,9 +161,9 @@ export default function InfoCardRight (props) {
     letter-spacing: 5px;
     font-size: 30px;
     padding-top: 30px;
+    text-align: center;
     @media only screen and ( max-width: 700px)  {
         font-size:21px;
-        text-align: center;
     }  
     `
     const PrizeDescription = styled.p`
@@ -177,6 +177,7 @@ export default function InfoCardRight (props) {
     .gerador {
         padding-left: 3px;
         color: rgb(33, 33, 33);
+        text-align: center;
     }
     @media only screen and ( max-width: 700px)  {
         width: 100%;
@@ -203,7 +204,7 @@ export default function InfoCardRight (props) {
                 
                 <div className="moreinfo">
                     <Links>
-                    <a rel="noreferrer" className="routeLink2" target="_blank" href={props.link1href}><button className="text">{props.link1}</button></a>
+                    <a className="routeLink2" target="_blank" href={props.link1href}><button className="text">{props.link1}</button></a>
                     </Links>
                     
                 </div>
