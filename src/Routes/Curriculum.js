@@ -29,9 +29,11 @@ export default function Curriculum () {
         <CurriculumBox>
             <Header></Header>
             <Curriculo>
-                <InfoCardLeft ano="2022" mes="JANEIRO" premio="Medalha de Prata-OBMEP" quem="IMPA" link1="PREMIADOS" link1href="http://premiacao.obmep.org.br/16aobmep/verRelatorioPremiadosPrata.do.htm"></InfoCardLeft>
-                <InfoCardRight ano="2022" mes="JANEIRO" premio="Menção Honrosa-OBF" quem="SBF" link1="PREMIADOS" link1href="http://www.sbfisica.org.br/v1/olimpiada/2021/index.php/16-obf/283-vencedores-da-obf-2021-3-serie"></InfoCardRight>
-                <InfoCardLeft ano="2022" mes="JANEIRO" premio="Coord. Geral Grêmio Estudantil" quem="EE Barão Geraldo de Rezende" link1="CERTIFICAÇÃO" link1href="https://drive.google.com/file/d/1BJUFsy4fDRN_7RM6Ze5gnvrbwd7Fm9Yf/view?usp=sharing"></InfoCardLeft>
+                <InfoCardLeft ano="2022" mes="JANEIRO" premio="1° EP/7° AC Engenharia Mecânica - UNESP" quem="Vunesp" link1="Listão" link1href="https://documento.vunesp.com.br/documento/stream/MjY1OTU3Ng%3d%3d"></InfoCardLeft>
+                <InfoCardRight ano="2022" mes="JANEIRO" premio="Medalha de Prata-OBMEP" quem="IMPA" link1="PREMIADOS" link1href="http://premiacao.obmep.org.br/16aobmep/verRelatorioPremiadosPrata.do.htm"></InfoCardRight>
+                <InfoCardLeft ano="2022" mes="JANEIRO" premio="Menção Honrosa-OBF" quem="SBF" link1="PREMIADOS" link1href="http://www.sbfisica.org.br/v1/olimpiada/2021/index.php/16-obf/283-vencedores-da-obf-2021-3-serie"></InfoCardLeft>
+                <InfoCardRight ano="2022" mes="JANEIRO" premio="Coord. Geral Grêmio Estudantil" quem="EE Barão Geraldo de Rezende" link1="CERTIFICAÇÃO" link1href="https://drive.google.com/file/d/1BJUFsy4fDRN_7RM6Ze5gnvrbwd7Fm9Yf/view?usp=sharing"></InfoCardRight>
+                <InfoCardLeft ano="2021" mes="DEZEMBRO" premio="Bronze-Olimpíada da Tríplice Fronteira (Sapientia)" quem="Instituto Vertere" link1="DADOS" link1href="https://drive.google.com/drive/folders/1yiEU_nllSX7lg69NveMBetkgjDGXd_TY?usp=sharing"></InfoCardLeft>
                 <InfoCardRight ano="2021" mes="DEZEMBRO" premio="Intr. ao estudo dos limites" quem="UFRGS" link1="CERTIFICAÇÃO" link1href="https://drive.google.com/file/d/1kqnL2xNlDsCVIvcwVmqAESzCDRIaRYnu/view?usp=sharing"></InfoCardRight>
                 <InfoCardLeft ano="2021" mes="DEZEMBRO" premio="Insígnia de Papiro-OBLing" quem="MCTI" link1="PREMIADOS" link1href="https://docs.google.com/spreadsheets/d/1j6wvozYjuPLHZt8xDpOdoJSvGdGEtU2GbIZdX-cDzIE/edit?usp=sharing"></InfoCardLeft>
                 <InfoCardRight ano="2021" mes="NOVEMBRO" premio="Vencedor BRICS Math Olympiad" quem="Dragon Learn" link1="CERTIFICAÇÃO" link1href="https://drive.google.com/file/d/1X4s7DH6JCAisq8PWiJlZsVHF9-xt1KbR/view?usp=sharing"></InfoCardRight>
