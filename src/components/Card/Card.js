@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 
-import { FaGithub, FaInstagram, FaDiscord, FaReact, FaPython, FaJs, FaNodeJs, FaFigma } from 'react-icons/fa';
+import { FaGithub, FaInstagram, FaDiscord, FaReact, FaPython,FaCss3Alt, FaJs, FaNodeJs, FaFigma } from 'react-icons/fa';
 import { SiBlender } from 'react-icons/si'
 
 export default function Card () {
