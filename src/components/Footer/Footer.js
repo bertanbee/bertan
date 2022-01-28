@@ -1,4 +1,4 @@
-import { FaGithub, FaInstagram, FaDiscord, FaReact, FaPython, FaJs, FaCss3Alt, FaUnity, FaHome, FaPaperclip, FaUser, FaCamera } from 'react-icons/fa';
+import { FaGithub, FaInstagram, FaDiscord, FaReact, FaPython, FaJs, FaCss3Alt, FaUnity, FaHome, FaPaperclip, FaUser, FaCamera, FaNodeJS } from 'react-icons/fa';
 import { SiCsharp,SiBlender } from 'react-icons/si'
 
 import { Link } from 'react-router-dom';
@@ -227,9 +227,8 @@ export default function Footer () {
                         <a rel="noreferrer" className="noStyleAnchor" target="_blank" href="https://reactnative.dev/"><FaReact className="iconbadge"></FaReact></a>
                     </MiniBadgeDiv>
                     <MiniBadgeDiv>
-                        <a rel="noreferrer" className="noStyleAnchor" target="_blank" href="https://docs.microsoft.com/en-us/dotnet/csharp/"><SiCsharp className="iconbadge"></SiCsharp></a>
-                        <a rel="noreferrer" className="noStyleAnchor" target="_blank" href="https://unity.com/"><FaUnity className="iconbadge"></FaUnity></a>
                         <a rel="noreferrer" className="noStyleAnchor" target="_blank" href="https://www.blender.org/"><SiBlender className="iconbadge"></SiBlender></a>
+                        <a rel="noreferrer" className="noStyleAnchor" target="_blank" href="https://nodejs.org/"><FaNodeJS className="iconbadge"></FaNodeJS></a>
                     </MiniBadgeDiv>
                     
                 </BadgesDiv>
