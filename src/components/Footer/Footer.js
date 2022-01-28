@@ -1,4 +1,4 @@
-import { FaGithub, FaInstagram, FaDiscord, FaReact, FaPython, FaJs, FaCss3Alt, FaUnity, FaHome, FaPaperclip, FaUser, FaCamera, FaNodeJS } from 'react-icons/fa';
+import { FaGithub, FaInstagram, FaDiscord, FaReact, FaPython, FaJs, FaCss3Alt, FaUnity, FaHome, FaPaperclip, FaUser, FaCamera, FaNodeJs } from 'react-icons/fa';
 import { SiCsharp,SiBlender } from 'react-icons/si'
 
 import { Link } from 'react-router-dom';
@@ -228,7 +228,7 @@ export default function Footer () {
                     </MiniBadgeDiv>
                     <MiniBadgeDiv>
                         <a rel="noreferrer" className="noStyleAnchor" target="_blank" href="https://www.blender.org/"><SiBlender className="iconbadge"></SiBlender></a>
-                        <a rel="noreferrer" className="noStyleAnchor" target="_blank" href="https://nodejs.org/"><FaNodeJS className="iconbadge"></FaNodeJS></a>
+                        <a rel="noreferrer" className="noStyleAnchor" target="_blank" href="https://nodejs.org/"><FaNodeJs className="iconbadge"></FaNodeJs></a>
                     </MiniBadgeDiv>
                     
                 </BadgesDiv>
