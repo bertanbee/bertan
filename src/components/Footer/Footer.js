@@ -1,5 +1,5 @@
-import { FaGithub, FaInstagram, FaDiscord, FaReact, FaPython, FaJs, FaCss3Alt, FaUnity, FaHome, FaPaperclip, FaUser, FaCamera, FaNodeJs } from 'react-icons/fa';
-import { SiCsharp,SiBlender } from 'react-icons/si'
+import { FaGithub, FaInstagram, FaDiscord, FaReact, FaPython, FaJs, FaCss3Alt, FaHome, FaPaperclip, FaUser, FaCamera, FaNodeJs } from 'react-icons/fa';
+import { SiBlender } from 'react-icons/si'
 
 import { Link } from 'react-router-dom';
 
