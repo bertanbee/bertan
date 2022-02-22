@@ -30,9 +30,9 @@ export default function Curriculum () {
             <Header></Header>
             <Curriculo>
                 <InfoCardRight ano="2022" mes="FEVEREIRO" premio="Engenharia de Computação-UNICAMP-Vestibular" quem="Universidade de Campinas" link1="LISTÃO" link1href="https://www.comvest.unicamp.br/vest2022/F2/aprova2/chamada2/letras/l.html"></InfoCardRight>
-                <InfoCardLeft ano="2022" mes="FEVEREIRO" premio="Engenharia de Agrícola-UNICAMP-Vagas Olímpicas" quem="Universidade de Campinas" link1="Listão" link1href="https://www.comvest.unicamp.br/vest2022/vo/vo_aprova/chamada1/chamada1.html"></InfoCardLeft>
+                <InfoCardLeft ano="2022" mes="FEVEREIRO" premio="Engenharia de Agrícola-UNICAMP-Vagas Olímpicas" quem="Universidade de Campinas" link1="LISTÃO" link1href="https://www.comvest.unicamp.br/vest2022/vo/vo_aprova/chamada1/chamada1.html"></InfoCardLeft>
                 <InfoCardRight ano="2022" mes="FEVEREIRO" premio="Engenharia de Computação-Esc. Politécnica da USP" quem="Fuvest" link1="LISTÃO" link1href="https://www.fuvest.br/wp-content/uploads/fuvest_2022_chamada_1.pdf"></InfoCardRight>
-                <InfoCardLeft ano="2022" mes="JANEIRO" premio="1° EP/7° AC Engenharia Mecânica - UNESP" quem="Vunesp" link1="Listão" link1href="https://documento.vunesp.com.br/documento/stream/MjY1OTU3Ng%3d%3d"></InfoCardLeft>
+                <InfoCardLeft ano="2022" mes="JANEIRO" premio="1° EP/7° AC Engenharia Mecânica - UNESP" quem="Vunesp" link1="LISTÃO" link1href="https://documento.vunesp.com.br/documento/stream/MjY1OTU3Ng%3d%3d"></InfoCardLeft>
                 <InfoCardRight ano="2022" mes="JANEIRO" premio="Medalha de Prata-OBMEP" quem="IMPA" link1="PREMIADOS" link1href="http://premiacao.obmep.org.br/16aobmep/verRelatorioPremiadosPrata.do.htm"></InfoCardRight>
                 <InfoCardLeft ano="2022" mes="JANEIRO" premio="Menção Honrosa-OBF" quem="SBF" link1="PREMIADOS" link1href="http://www.sbfisica.org.br/v1/olimpiada/2021/index.php/16-obf/283-vencedores-da-obf-2021-3-serie"></InfoCardLeft>
                 <InfoCardRight ano="2022" mes="JANEIRO" premio="Coord. Geral Grêmio Estudantil" quem="EE Barão Geraldo de Rezende" link1="CERTIFICAÇÃO" link1href="https://drive.google.com/file/d/1BJUFsy4fDRN_7RM6Ze5gnvrbwd7Fm9Yf/view?usp=sharing"></InfoCardRight>
