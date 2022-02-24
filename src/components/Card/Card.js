@@ -231,7 +231,7 @@ export default function Card () {
             <NewDiv id="informationDIV">
                 <h1 style={{color: "#101936", textAlign: "center"}}>Lucas Suzin Bertan</h1>
                 <div style={{ display: "flex", flexDirection: "row", alignItems:"center"}}>
-                    <a className="noStyleAnchor" target="_blank" rel="noreferrer" href="https://www.google.com/maps/place/Campinas+-+State+of+S%C3%A3o+Paulo/@-22.8951606,-47.1711223,11z/data=!3m1!4b1!4m5!3m4!1s0x94c8c8f6a2552649:0x7475001c58043536!8m2!3d-22.9050824!4d-47.0613327"><h3 id="location">Campinas, São Paulo</h3></a>
+                    <a className="noStyleAnchor" target="_blank" rel="noreferrer" href="https://www.google.com.br/maps/place/S%C3%A3o+Paulo,+State+of+S%C3%A3o+Paulo/@-23.6815314,-46.8754974,10z/data=!3m1!4b1!4m5!3m4!1s0x94ce448183a461d1:0x9ba94b08ff335bae!8m2!3d-23.5557714!4d-46.6395571"><h3 id="location">São Paulo, São Paulo</h3></a>
                     <img alt="brazilian-flag" src={require("./flag.png")} style={{height:"20px", width:"30px", padding:"6px"}}></img>
                 </div>
                 <br></br>
