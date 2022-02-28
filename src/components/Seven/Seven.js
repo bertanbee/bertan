@@ -136,7 +136,7 @@ export default function Seven () {
                 <AdvantagesBox>
                     <Advantage> • Repetição de uma rotina semanal.</Advantage>
                     <Advantage> • Não é necessário criar nenhuma conta.</Advantage>
-                    <Advantage> • Os dados são armazenados por meio de cookies.</Advantage>
+                    <Advantage> • Os dados são armazenados no armazenamento local.</Advantage>
                     <Advantage> • O código está disponível em <a style={{color:"rgb(200, 200, 200)"}} target="_blank" rel="noreferrer" href="https://github.com/bertanbee/7weekseven">7weekseven</a>.</Advantage>
                 </AdvantagesBox>
                 <PresentationWithComputerAndButtonDiv >
