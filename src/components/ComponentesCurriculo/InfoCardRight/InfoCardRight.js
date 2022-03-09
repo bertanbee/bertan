@@ -200,7 +200,7 @@ export default function InfoCardRight (props) {
             
             <RightInformation>
                 <Title className="title">{props.premio}</Title>
-                <PrizeDescription><p className="recognize">Reconhecido por</p> <p className="gerador">{props.quem}</p></PrizeDescription>
+                <PrizeDescription><p className="recognize">{props.complemento}</p> <p className="gerador">{props.quem}</p></PrizeDescription>
                 
                 <div className="moreinfo">
                     <Links>
