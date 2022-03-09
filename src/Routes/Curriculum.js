@@ -29,6 +29,8 @@ export default function Curriculum () {
         <CurriculumBox>
             <Header></Header>
             <Curriculo>
+            <InfoCardRight ano="2022" mes="MARÇO" premio="Participação #btgfaztech" quem="---" link1="POST LINKEDIN" link1href="https://www.linkedin.com/posts/btgpactual_btgfaztech-0803-19h-activity-6905119977939288064-C2PM"></InfoCardRight>
+                <InfoCardLeft ano="2022" mes="MARÇO" premio="Webnar-Fala Inovação-Pesquisa de Inovação." quem="Agência USP de Inovação" link1="CERTIFICAÇÃO" link1href="https://drive.google.com/file/d/1O9s1zUIPyPs618MEl2hMcmsOFae-zNW-/view?usp=sharing"></InfoCardLeft>
                 <InfoCardRight ano="2022" mes="FEVEREIRO" premio="Engenharia de Computação-UNICAMP-Vestibular" quem="Universidade de Campinas" link1="LISTÃO" link1href="https://www.comvest.unicamp.br/vest2022/F2/aprova2/chamada2/letras/l.html"></InfoCardRight>
                 <InfoCardLeft ano="2022" mes="FEVEREIRO" premio="Engenharia de Agrícola-UNICAMP-Vagas Olímpicas" quem="Universidade de Campinas" link1="LISTÃO" link1href="https://www.comvest.unicamp.br/vest2022/vo/vo_aprova/chamada1/chamada1.html"></InfoCardLeft>
                 <InfoCardRight ano="2022" mes="FEVEREIRO" premio="Engenharia de Computação-Esc. Politécnica da USP" quem="Fuvest" link1="LISTÃO" link1href="https://www.fuvest.br/wp-content/uploads/fuvest_2022_chamada_1.pdf"></InfoCardRight>
