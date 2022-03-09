@@ -13,7 +13,7 @@ function App() {
     <BrowserRouter>
       <Routes>
         <Route exact path="/" element={<Home />}></Route>
-        <Route exact path="/curriculo" element={<Curriculum />} />
+        <Route exact path="/timeline" element={<Curriculum />} />
         <Route exact path="/perfil" element={<Perfil />} />
         <Route exact path="/bastidores" element={<Bastidores />} />
       </Routes>

@@ -57,7 +57,7 @@ function Header () {
                 </svg>
             </Link>
             <Link className="routeLink" to="/"><Selection>INÍCIO</Selection></Link>
-            <Link className="routeLink" to="/curriculo"><Selection>CURRÍCULO</Selection></Link>
+            <Link className="routeLink" to="/timeline"><Selection>TIMELINE</Selection></Link>
             <Link className="routeLink" to="/perfil"><Selection>PERFIL</Selection></Link>
             
         </HeaderBox>
