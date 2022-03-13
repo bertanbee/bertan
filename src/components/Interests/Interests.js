@@ -76,10 +76,11 @@ export default function Interests () {
             <TitleInterests><b>INTERESSES</b></TitleInterests>
             <InterestsMiniBox>
                 <Interest><b>1.</b> Inteligêcia Artificial;</Interest>
-                <Interest><b>2.</b> Desenvolvimento Web 3D;</Interest>
+                <Interest><b>2.</b> Mercado financeiro;</Interest>
                 <Interest><b>3.</b> Engenharia de Computação aplicada ao campo;</Interest>
                 <Interest><b>4.</b> Desafios tecnológicos em países emergentes;</Interest>
-                <Interest><b>5.</b> NFTs e economia virtual.</Interest>
+                <Interest><b>5.</b> NFTs e economia virtual;</Interest>
+                <Interest><b>6.</b> Desenvolvimento Web 3D.</Interest>
             </InterestsMiniBox>
             
         </LanguageBox>
