@@ -29,6 +29,7 @@ export default function Curriculum () {
         <CurriculumBox>
             <Header></Header>
             <Curriculo>
+                <InfoCardLeft ano="2022" mes="MARÇO" premio="Curso Node.js, Express, MongoDB & More: The Complete Bootcamp 2022" complemento="Instrudor" quem="Jonas Schmedtmann / Udemy" link1="CERTIFICAÇÃO" link1href="https://drive.google.com/file/d/1YGhvQshv4f6_cKQlz8gge6XSgAf7MbO6/view?usp=sharing"></InfoCardLeft>
                 <InfoCardRight ano="2022" mes="MARÇO" premio="Participação #btgfaztech" complemento="Evento de" quem="BTG Pactual" link1="POST LINKEDIN" link1href="https://www.linkedin.com/posts/btgpactual_btgfaztech-0803-19h-activity-6905119977939288064-C2PM"></InfoCardRight>
                 <InfoCardLeft ano="2022" mes="MARÇO" premio="Webnar-Fala Inovação-Pesquisa de Inovação." complemento="Reconhecido por" quem="Agência USP de Inovação" link1="CERTIFICAÇÃO" link1href="https://drive.google.com/file/d/1O9s1zUIPyPs618MEl2hMcmsOFae-zNW-/view?usp=sharing"></InfoCardLeft>
                 <InfoCardRight ano="2022" mes="FEVEREIRO" premio="Engenharia de Computação-UNICAMP-Vestibular" complemento="Reconhecido por" quem="Universidade de Campinas" link1="LISTÃO" link1href="https://www.comvest.unicamp.br/vest2022/F2/aprova2/chamada2/letras/l.html"></InfoCardRight>
