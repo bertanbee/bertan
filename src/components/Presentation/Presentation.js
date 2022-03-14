@@ -225,7 +225,7 @@ function Presentation () {
                 <div style={{ alignItems: "center", width: "30%", height: "500px", display: "flex", flexDirection: "column" }}>
                     <TreeImage src={require("./tree.png")}></TreeImage>
                     <SelectionTextDiv style={{ marginTop: "-450px", textAlign: "center" }}>
-                        <SelectionText1 style={{marginTop: "9px", cursor: "default"}}>BASTIDORES</SelectionText1>
+                        <SelectionText1 style={{marginTop: "9px", cursor: "default"}}>HOME</SelectionText1>
                         <div style={{ display: "flex", flexDirection: "row", width: "100%", textAlign: "center" }}>
                             <div style={{ display: "flex", flexDirection: "row", width: "100%", textAlign: "center" }}>
                                 <Link style={{textDecoration: "none"}} to="/timeline"><SelectionText1 style={{ marginTop: "51px", marginLeft: "-30px", cursor: "default" }}>REALIZAÇÕES</SelectionText1></Link>
