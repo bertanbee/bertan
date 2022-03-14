@@ -358,7 +358,7 @@ function NewTopic (props) {
                         <Title id="three">{props.title}</Title>
                         
                     </TextDivision>
-                    <Link className="routeLink" to="curriculo"><Text>{props.description}</Text></Link>
+                    <Link className="routeLink" to="/timeline"><Text>{props.description}</Text></Link>
                 </LeftDivision>
                 <ImgContainer className="ImageContainer">
                     <Img src={require(`./image.png`)}></Img>
