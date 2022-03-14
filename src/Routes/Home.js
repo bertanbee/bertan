@@ -18,9 +18,9 @@ function Home() {
     <div style={{ alignItems: "center", overflowX: "hidden" }}>
       <Header></Header>
       <Presentation></Presentation>
-      <NewTopic title="ESTUDO" description="CURRÍCULO"></NewTopic>
+      <NewTopic title="ROTINA" description="TIMELINE"></NewTopic>
       <NewTopic1 title="INDIVÍDUO" description="PERFIL"></NewTopic1>
-      <NewTopic3 title="INOVAÇÃO" description="BASTIDORES"></NewTopic3>
+      <NewTopic3 title="CRIAÇÃO" description="GITHUB"></NewTopic3>
       <Footer></Footer>
     </div>
   );

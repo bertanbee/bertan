@@ -228,7 +228,7 @@ function Presentation () {
                         <SelectionText1 style={{marginTop: "9px", cursor: "default"}}>BASTIDORES</SelectionText1>
                         <div style={{ display: "flex", flexDirection: "row", width: "100%", textAlign: "center" }}>
                             <div style={{ display: "flex", flexDirection: "row", width: "100%", textAlign: "center" }}>
-                                <Link style={{textDecoration: "none"}} to="/timeline"><SelectionText1 style={{ marginTop: "51px", marginLeft: "-30px", cursor: "default" }}>ACADÊMICO</SelectionText1></Link>
+                                <Link style={{textDecoration: "none"}} to="/timeline"><SelectionText1 style={{ marginTop: "51px", marginLeft: "-30px", cursor: "default" }}>REALIZAÇÕES</SelectionText1></Link>
                                 <Link style={{textDecoration: "none"}} to="/timeline"><SelectionText1 style={{ marginTop: "27px", marginLeft: "0px", cursor: "default" }}>PRÊMIOS</SelectionText1></Link>
                             </div>
                             <div style={{ display: "flex", flexDirection: "row", width: "100%", textAlign: "center" }}>
@@ -237,7 +237,7 @@ function Presentation () {
                             </div>
                         </div>
                         <div style={{ display: "flex", flexDirection: "row", width: "100%", textAlign: "center" }}>
-                            <Link style={{textDecoration: "none"}} to="/timeline"><SelectionText1 style={{ marginTop: "33px", marginLeft: "57px", cursor: "default" }}>CURRÍCULO</SelectionText1></Link>
+                            <Link style={{textDecoration: "none"}} to="/timeline"><SelectionText1 style={{ marginTop: "33px", marginLeft: "90px", cursor: "default" }}>TIMELINE</SelectionText1></Link>
                             <Link style={{textDecoration: "none"}} to="/perfil"><SelectionText1 style={{ marginTop: "33px", marginLeft: "45px", cursor: "default" }}>PERFIL</SelectionText1></Link>
                         </div>
                         <SelectionText1 style={{ marginTop: "198px", marginLeft: "-18px", cursor: "default" }}>VOCÊ ESTÁ AQUI</SelectionText1>

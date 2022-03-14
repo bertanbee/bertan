@@ -1,7 +1,5 @@
 import styled from 'styled-components';
 
-import { Link } from 'react-router-dom'
-
 function NewTopic3 (props) {
     const ContainBox = styled.div`
     @media only screen and ( min-width: 1000px)  {
@@ -252,7 +250,7 @@ function NewTopic3 (props) {
                         <Title id="three3">{props.title}</Title>
                         
                     </TextDivision>
-                    <Link className="routeLink" to="/bastidores"><Text>{props.description}</Text></Link>
+                    <a target='_blank' rel='noreferrer' href='https://github.com/bertanbee'><Text>{props.description}</Text></a>
                 </LeftDivision>
                 <ImgContainer className="ImageContainer">
                     <Img height="270px" width="480px" src={require(`./image.png`)}></Img>

@@ -51,12 +51,11 @@ function Header () {
     `
     return (
         <HeaderBox>
-            <Link className="routeLink" to="/bastidores">
+            <Link className="routeLink" to="/">
                 <svg width="42" height="42" viewBox="0 0 902 902" fill="none" xmlns="http://www.w3.org/2000/svg">
                     <path className="logo" d="M1 1V901H53.3073C52.1837 427 439.684 399 451 901H901V1H849.817C838.5 503 451 475 452.124 1H1Z" />
                 </svg>
             </Link>
-            <Link className="routeLink" to="/"><Selection>INÍCIO</Selection></Link>
             <Link className="routeLink" to="/timeline"><Selection>TIMELINE</Selection></Link>
             <Link className="routeLink" to="/perfil"><Selection>PERFIL</Selection></Link>
             
