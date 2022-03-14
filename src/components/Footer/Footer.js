@@ -195,9 +195,8 @@ export default function Footer () {
             <RightContentLinks>
                 <NavegationTitle>NAVEGAÇÃO</NavegationTitle>
                 <Link className="NavigationLinks"  to="/"><FaHome style={{ marginBottom: "-2px" }}></FaHome> Início</Link>
-                <Link className="NavigationLinks" to="/curriculo"><FaPaperclip style={{ marginBottom: "-2px" }}></FaPaperclip> Currículo</Link>
+                <Link className="NavigationLinks" to="/timeline"><FaPaperclip style={{ marginBottom: "-2px" }}></FaPaperclip> Currículo</Link>
                 <Link className="NavigationLinks" to="/perfil"><FaUser style={{ marginBottom: "-2px" }}></FaUser> Perfil</Link>
-                <Link className="NavigationLinks" to="/bastidores"><FaCamera style={{ marginBottom: "-2px" }}></FaCamera> Bastidores</Link>
             </RightContentLinks>
             <Division></Division>
             <LeftCard>
