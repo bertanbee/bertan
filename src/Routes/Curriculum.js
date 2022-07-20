@@ -29,6 +29,8 @@ export default function Curriculum () {
         <CurriculumBox>
             <Header></Header>
             <Curriculo>
+                <InfoCardRight ano="2022" mes="JULHO" premio="Melhor projeto Fullstack + Hardware Intelifreeze" complemento="Disciplina:" quem="Introd. à Engenharia de Computação" link1="Linktree" link1href="https://linktr.ee/intelifreeze"></InfoCardRight>
+                <InfoCardLeft ano="2022" mes="JUNHO" premio="XV Curso de Introdução ao Mercado Financeiro" complemento="Local:" quem="PoliFinance - Liga de MF" link1="CERTIFICAÇÃO" link1href="https://drive.google.com/file/d/1VoqsdM2WXn19xysIN0zhhXw8Urt2GgWY/view?usp=sharing"></InfoCardLeft>
                 <InfoCardRight ano="2022" mes="MARÇO" premio="1° Semestre - Engenharia de Computação" complemento="Local:" quem="Escola Politécnica - Universidade de São Paulo" link1="PÁGINA DA ESCOLA POLITÉCNICA" link1href="https://www.poli.usp.br/"></InfoCardRight>
                 <InfoCardLeft ano="2022" mes="MARÇO" premio="Curso Node.js, Express, MongoDB & More: The Complete Bootcamp 2022" complemento="Instrutor" quem="Jonas Schmedtmann / Udemy" link1="CERTIFICAÇÃO" link1href="https://drive.google.com/file/d/1YGhvQshv4f6_cKQlz8gge6XSgAf7MbO6/view?usp=sharing"></InfoCardLeft>
                 <InfoCardRight ano="2022" mes="MARÇO" premio="Participação #btgfaztech" complemento="Evento de" quem="BTG Pactual" link1="POST LINKEDIN" link1href="https://www.linkedin.com/posts/btgpactual_btgfaztech-0803-19h-activity-6905119977939288064-C2PM"></InfoCardRight>
