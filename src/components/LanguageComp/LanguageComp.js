@@ -162,12 +162,12 @@ export default function LanguageComp () {
                 <LanguageProgressBox>
                     <LanguageNameAndLevelInfoBox>
                         <LanguageName>ITALIANO</LanguageName>
-                        <LanguageStatus>BÁSICO</LanguageStatus>
+                        <LanguageStatus>INTERMEDIÁRIO</LanguageStatus>
                     </LanguageNameAndLevelInfoBox>
                     <Progress>
                         <div style={{
                             height: "100%",
-                            width: "30%",
+                            width: "60%",
                             background: "linear-gradient(90deg, #008c45 17%, #f4f5f0 50%, #cd212a 100%",
                             boxShadow: "0 4px 12px rgba(0, 0, 0, 0.3)",
                             borderRadius: "3px"
