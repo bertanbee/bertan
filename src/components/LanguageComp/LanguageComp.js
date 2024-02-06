@@ -155,46 +155,6 @@ export default function LanguageComp () {
                     </Progress>
                 </LanguageProgressBox>
             </LanguageMiniBox> 
-
-            <LanguageMiniBox>
-                <img alt="italian-flag" src="https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg" style={{height:"40px", width:"60px", boxShadow: "0 4px 12px rgba(0, 0, 0, 0.5)"}}></img>
-            
-                <LanguageProgressBox>
-                    <LanguageNameAndLevelInfoBox>
-                        <LanguageName>ITALIANO</LanguageName>
-                        <LanguageStatus>INTERMEDIÁRIO</LanguageStatus>
-                    </LanguageNameAndLevelInfoBox>
-                    <Progress>
-                        <div style={{
-                            height: "100%",
-                            width: "60%",
-                            background: "linear-gradient(90deg, #008c45 17%, #f4f5f0 50%, #cd212a 100%",
-                            boxShadow: "0 4px 12px rgba(0, 0, 0, 0.3)",
-                            borderRadius: "3px"
-                        }}></div>
-                    </Progress>
-                </LanguageProgressBox>
-            </LanguageMiniBox> 
-
-            <LanguageMiniBox>
-                <img alt="french-flag" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%2C_2020%E2%80%93present%29.svg" style={{height:"40px", width:"60px", boxShadow: "0 4px 12px rgba(0, 0, 0, 0.5)"}}></img>
-            
-                <LanguageProgressBox>
-                    <LanguageNameAndLevelInfoBox>
-                        <LanguageName>FRANCÊS</LanguageName>
-                        <LanguageStatus>BÁSICO</LanguageStatus>
-                    </LanguageNameAndLevelInfoBox>
-                    <Progress>
-                        <div style={{
-                            height: "100%",
-                            width: "10%",
-                            background: "linear-gradient(90deg, #0050a4 17%, rgba(240,240,240,1) 50%, #ef4135 100%",
-                            boxShadow: "0 4px 12px rgba(0, 0, 0, 0.3)",
-                            borderRadius: "3px"
-                        }}></div>
-                    </Progress>
-                </LanguageProgressBox>
-            </LanguageMiniBox> 
         </LanguageBox>
         </>
     );
