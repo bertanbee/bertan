@@ -29,7 +29,9 @@ export default function Curriculum () {
         <CurriculumBox>
             <Header></Header>
             <Curriculo>
-                {/* <InfoCardRight ano="2022" mes="JULHO" premio="Fundador Agripoli - Agricultura de Precisão" complemento="Local:" quem="PoliFinance - Liga de MF" link1="CERTIFICAÇÃO" link1href="https://drive.google.com/file/d/1VoqsdM2WXn19xysIN0zhhXw8Urt2GgWY/view?usp=sharing"></InfoCardRight> */}
+                <InfoCardRight ano="2022" mes="NOVEMBRO" premio="Curso de Problem Solving" complemento="Reconhecido por:" quem="Poli Consulting Club - PoliCC" link1="LINK" link1href="https://www.policonsultingclub.com.br/cursodeproblemsolving"></InfoCardRight>
+                <InfoCardLeft ano="2022" mes="OUTUBRO" premio="Iniciação Científica - Cidades Inteligentes" complemento="Local:" quem="Instituto de Pesquisas Tecnológicas (IPT)" link1="LINK FAPESP" link1href="https://bv.fapesp.br/pt/bolsas/205189/implementacao-de-rotinas-de-processamento-de-dados-de-medicao-e-de-comunicacao-em-redes-de-sensores-/"></InfoCardLeft>
+                <InfoCardRight ano="2022" mes="JULHO" premio="Fundador Agripoli - Agricultura de Precisão" complemento="Local:" quem="Grêmio Politécnico" link1="INSTAGRAM" link1href="https://www.instagram.com/grupo.agropoli/"></InfoCardRight> 
                 <InfoCardLeft ano="2022" mes="JULHO" premio="Melhor projeto Fullstack + Hardware Intelifreeze" complemento="Disciplina:" quem="Introd. à Engenharia de Computação" link1="LINKTREE" link1href="https://linktr.ee/intelifreeze"></InfoCardLeft>
                 <InfoCardRight ano="2022" mes="JUNHO" premio="XV Curso de Introdução ao Mercado Financeiro" complemento="Local:" quem="PoliFinance - Liga de MF" link1="CERTIFICAÇÃO" link1href="https://drive.google.com/file/d/1VoqsdM2WXn19xysIN0zhhXw8Urt2GgWY/view?usp=sharing"></InfoCardRight>
                 <InfoCardLeft ano="2022" mes="MAIO" premio="Desenvolvedor de software na Skyrats Drones Inteligentes" link1="INSTAGRAM" link1href="https://www.instagram.com/skyrats_drones/"></InfoCardLeft>
