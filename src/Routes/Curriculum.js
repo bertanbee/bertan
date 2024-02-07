@@ -29,6 +29,11 @@ export default function Curriculum () {
         <CurriculumBox>
             <Header></Header>
             <Curriculo>
+                <InfoCardLeft ano="2024" mes="JANEIRO" premio="Membro - Institudo de Formação de Líderes Jovem" complemento="Local:" quem="IFLJovem" link1="LINK" link1href="https://www.ifljovemsp.org/"></InfoCardLeft>
+                <InfoCardRight ano="2023" mes="DEZEMBRO" premio="Trilha de Carreira" complemento="Reconhecido por:" quem="Amigos da Poli" link1="LINK" link1href="https://www.centrodecarreiradapoli.com.br/trilhas-de-desenvolvimento"></InfoCardRight>
+                <InfoCardLeft ano="2023" mes="OUTUBRO" premio="Trilha de Personal Branding" complemento="Reconhecido por:" quem="Amigos da Poli" link1="LINK" link1href="https://www.centrodecarreiradapoli.com.br/trilhas-de-desenvolvimento"></InfoCardLeft>
+                <InfoCardRight ano="2023" mes="AGOSTO" premio="Registro de Software - Contagem de Bactérias" complemento="Reconhecido por:" quem="INPI, INOVA-UNICAMP" link1="MATÉRIA" link1href="https://patentes.inova.unicamp.br/item/pc272_countbacter/"></InfoCardRight>
+                <InfoCardLeft ano="2023" mes="JANEIRO" premio="Registro de Software - Contagem de Partículas" complemento="Reconhecido por:" quem="INPI, INOVA-UNICAMP" link1="MATÉRIA" link1href="https://patentes.inova.unicamp.br/item/pc255_particulas/"></InfoCardLeft>
                 <InfoCardRight ano="2022" mes="NOVEMBRO" premio="Curso de Problem Solving" complemento="Reconhecido por:" quem="Poli Consulting Club - PoliCC" link1="LINK" link1href="https://www.policonsultingclub.com.br/cursodeproblemsolving"></InfoCardRight>
                 <InfoCardLeft ano="2022" mes="OUTUBRO" premio="Iniciação Científica - Cidades Inteligentes" complemento="Local:" quem="Instituto de Pesquisas Tecnológicas (IPT)" link1="LINK FAPESP" link1href="https://bv.fapesp.br/pt/bolsas/205189/implementacao-de-rotinas-de-processamento-de-dados-de-medicao-e-de-comunicacao-em-redes-de-sensores-/"></InfoCardLeft>
                 <InfoCardRight ano="2022" mes="JULHO" premio="Fundador Agripoli - Agricultura de Precisão" complemento="Local:" quem="Grêmio Politécnico" link1="INSTAGRAM" link1href="https://www.instagram.com/grupo.agropoli/"></InfoCardRight> 
