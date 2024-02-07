@@ -29,7 +29,7 @@ export default function Curriculum () {
         <CurriculumBox>
             <Header></Header>
             <Curriculo>
-                <InfoCardLeft ano="2024" mes="JANEIRO" premio="Membro - Institudo de Formação de Líderes Jovem" complemento="Local:" quem="IFLJovem" link1="LINK" link1href="https://www.ifljovemsp.org/"></InfoCardLeft>
+                <InfoCardLeft ano="2024" mes="JANEIRO" premio="Membro - Instituto de Formação de Líderes Jovem" complemento="Local:" quem="IFLJovem" link1="LINK" link1href="https://www.ifljovemsp.org/"></InfoCardLeft>
                 <InfoCardRight ano="2023" mes="DEZEMBRO" premio="Trilha de Carreira" complemento="Reconhecido por:" quem="Amigos da Poli" link1="LINK" link1href="https://www.centrodecarreiradapoli.com.br/trilhas-de-desenvolvimento"></InfoCardRight>
                 <InfoCardLeft ano="2023" mes="OUTUBRO" premio="Trilha de Personal Branding" complemento="Reconhecido por:" quem="Amigos da Poli" link1="LINK" link1href="https://www.centrodecarreiradapoli.com.br/trilhas-de-desenvolvimento"></InfoCardLeft>
                 <InfoCardRight ano="2023" mes="AGOSTO" premio="Registro de Software - Contagem de Bactérias" complemento="Reconhecido por:" quem="INPI, INOVA-UNICAMP" link1="MATÉRIA" link1href="https://patentes.inova.unicamp.br/item/pc272_countbacter/"></InfoCardRight>
