@@ -47,7 +47,7 @@ export default function Perfil () {
                 <LanguageComp></LanguageComp>
                 <Interests></Interests>
             </DownDiv>
-            <ProjetosTitle>PROJETOS</ProjetosTitle>
+            <ProjetosTitle>PROJETO DO ENSINO MÉDIO</ProjetosTitle>
             <Seven></Seven>
             <Footer></Footer>
         </PerfilBox>
