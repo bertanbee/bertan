@@ -190,7 +190,7 @@ export default function Card () {
    function handleCopyTextFromParagraph() {
     const cb = navigator.clipboard;
     const paragraph = document.querySelector('#copytoclipboard');
-    cb.writeText(paragraph.innerText).then(() => alert('O nome de usuário node#7563 foi copiado!'));
+    cb.writeText(paragraph.innerText).then(() => alert('O ID 331782151534149633 foi copiado!'));
   }
 
     return (
@@ -202,7 +202,7 @@ export default function Card () {
                     <a rel="noreferrer" className="noStyleAnchor" target="_blank" href="https://www.instagram.com/lucassbertan/"><FaInstagram className="icon"></FaInstagram></a>
                     <a rel="noreferrer" className="noStyleAnchor" target="_blank" href="http://lattes.cnpq.br/6724167976039252"><img alt="curriculo-latter-logo" src={require("./lattes.png")} className="iconlattes"></img></a>
                     <div>
-                        <p id="copytoclipboard">node#7563</p>
+                        <p id="copytoclipboard">331782151534149633</p>
                         <button onClick={handleCopyTextFromParagraph} id="discordcopy" rel="noreferrer" target="_blank" ><FaDiscord className="icon"></FaDiscord></button>
                         
                     </div>
