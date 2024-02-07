@@ -77,6 +77,7 @@ export default function Interests () {
             <InterestsMiniBox>
                 <Interest>Computação aplicada ao campo</Interest>
                 <Interest>Inteligência Artificial</Interest>
+                <Interest>Empreendedorismo</Interest>
                 <Interest>Economia</Interest>
                 <Interest>IoT e cidades inteligentes</Interest>
                 <Interest>Desafios tecnológicos em países emergentes</Interest>
